@@ -1,6 +1,6 @@
 <div align="center">
 
-# Zapret Manager
+# Zapret Manager Baase
 
 **Одна панель для обхода блокировок на роутере OpenWrt — Zapret, Steer, Forkozz, ByeTube, Mixomo, TG WS Proxy, AmneziaWG, DoH, блокировка рекламы и hosts в одном месте.**
 
